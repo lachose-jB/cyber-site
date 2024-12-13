@@ -692,14 +692,14 @@
                     "dates": { "start": null },
                     "locales": {
                         "en": {
-                            "title": "English",
-                            "info": "Native speaker with excellent communication and writing skills.",
-                            "tags": ["Native"]
+                            "title":"English",
+                            "info":null,
+                            "tags": ["Technical Concept"]
                         },
                         "fr": {
                             "title": "Anglais",
-                            "info": "Locuteur natif avec d'excellentes compétences en communication et en rédaction.",
-                            "tags": ["Natif"]
+                            "info": null,
+                            "tags": ["Notion Technique"]
                         }
                     }
                 },
@@ -715,13 +715,13 @@
                     "locales": {
                         "en": {
                             "title": "French",
-                            "info": "Fluent in both spoken and written French; confident in professional communication.",
-                            "tags": ["Fluent"]
+                            "info": null,
+                            "tags": ["Natif"]
                         },
                         "fr": {
                             "title": "Français",
-                            "info": "Fluent à l'oral et à l'écrit; confiant dans la communication professionnelle.",
-                            "tags": ["Courant"]
+                            "info": null,
+                            "tags": ["Natif"]
                         }
                     }
                 }
