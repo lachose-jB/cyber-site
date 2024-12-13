@@ -17,7 +17,6 @@ export default defineConfig({
         'frame-src': ["'none'"],
         'object-src': ["'none'"]
       },
-      // Active le mode strict si nécessaire
       strict: true,
     })
   ],
