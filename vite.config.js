@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import csp from 'vite-plugin-csp'
 
 export default defineConfig({
-  base: '/jean-Baptiste-portfolio/',
+  base: '/',
   plugins: [
     react(),
     csp({
