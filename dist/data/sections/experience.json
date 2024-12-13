@@ -1,0 +1,127 @@
+{
+    "locales": {
+        "en": {
+            "title": "Experience",
+            "title_long_prefix": "Summary of my",
+            "title_long": "**Work** Experience"
+        },
+
+        "fr": {
+            "title": "Expérience",
+            "title_long_prefix": "Résumé de mon",
+            "title_long": "Parcours **Professionel**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/logobn2.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "08/02/2024",
+                        "end": "01/22/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Web Developers and Network/Security Administrator** Intern **",
+                            "info": "BN2 SMART GROUPE",
+                            "text": "Developed and maintained scalable websites, optimizing performance and implementing security services to improve data and web platform security, Cyber ​​Project Management and Web Pentest and Network Audit.",
+                            "tags": ["WordPress", "Nodejs", "python", "Nessus","OwaspZap"]
+                        },
+                        "fr": {
+                            "title": "Développeurs Web et Administrateur Réseau/Sécurité** Stagiaire **",
+                            "info": "BN2 SMART GROUPE",
+                            "text": "Développé et maintenu des site web évolutifs , optimisant les performances et implémentant des service de sécurité pour améliorer la sécurité des données et des platforme web, Gestions de projet cyber et Pentest Web et Audit réseaux.",
+                            "tags": ["WordPress", "Nodejs", "python", "Nessus","OwaspZap"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/want.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "04/02/2023",
+                        "end": "06/01/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Senior Front-End Developer**",
+                            "info": "WANTETE",
+                            "text": "Intern in the Front-End Developer position, I am in charge of redesigning and creating a theme in the WHMCS pack.",
+                            "tags": ["HTML5", "CSS/SASS", "JavaScript", "cPanel", "WHMCS"]
+                        },
+                        "fr": {
+                            "title": "Développeur **Front-End Senior**",
+                            "info": "WANTETE",
+                            "text": "Stagiaire au poste Developpeur Front-End, je suis charger de fait le refont et la creation d'un theme dans le pack WHMCS.",
+                            "tags": ["HTML5", "CSS/SASS", "JavaScript", "cPanel", "WHMCS"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/place-7.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "09/05/2022",
+                        "end": "10/01/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Technical Agent/HELPLINE **Interim**",
+                            "info": "ADEXCEL GROUPE",
+                            "text": "Interim I am responsible for diagnosing and inspecting consoles and computers, writing reports in English and other tasks related to the position.",
+                            "tags": ["Hardware troubleshooting", "Software support", "operating systems", "Network and connectivity"]
+                        },
+                        "fr": {
+                            "title": "Agent Technique/HELPLINE **Interim**",
+                            "info": "ADEXCEL GROUPE",
+                            "text": "Interimaire je suis charger de faire diagnostique et inspection de consoles et ordinateur, rédaction de rapport en anglais et autres taches liées au poste.",
+                            "tags": ["Dépannage matériel", "Support logiciel", "systèmes d'exploitation", "Réseau et connectivité"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/place-7.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "04/02/2021",
+                        "end": "08/20/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Computer** Trainer",
+                            "info": "ALEXDA Professional Training Center and Accomplie Technologie Service (ATS)",
+                            "text": "Training apprentices in repair and maintenance of computers and mobile phones and in algorithms and in initiation to web and mobile computer programming.",
+                            "tags": ["Sql", "Flutter", "Java", "Xml","proteus","C++"]
+                        },
+                        "fr": {
+                            "title": "Formateur **Informatique**",
+                            "info": "Centre de Formation Professionnelle ALEXDA et Accomplie Technologie Service (ATS)",
+                            "text": "Formation des apprentis en réparation et maintenance des ordinateurs et téléphones portables et en algorithme et en initiation programmation informatique web et mobile.",
+                            "tags": ["Sql", "Flutter", "Java", "Xml","proteus","C++"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

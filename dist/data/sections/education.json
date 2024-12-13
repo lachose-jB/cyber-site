@@ -1,0 +1,130 @@
+{
+    "locales": {
+        "en": {
+            "title": "Education",
+            "title_long_prefix": "This is my",
+            "title_long": "**Educational** Background"
+        },
+
+        "fr": {
+            "title": "Éducation",
+            "title_long_prefix": "C'est mon",
+            "title_long": "**Parcour** Éducatif"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "academic",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/place-1.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "06/11/2017",
+                        "end": "12/05/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Bachelor 3** in Computer Science",
+                            "info": "UNIVERSITY GASA-FORMATION",
+                            "text": "Earned a Bachelor's degree in Computer Science, focusing on algorithms, data structures, software engineering, and web development. Gained hands-on experience through various programming projects and boot camps.",
+                            "tags": ["C/C++", "Java", "VBA","SQL", "Spring", "XML","Systèmes d’exploitation","Systèmes d’information"]
+                        },
+                        "fr": {
+                            "title": "**Licence 3** en Informatique",
+                            "info": "UNIVERSITY GASA-FORMATION,",
+                            "text": "Obtenu une licence en Informatique, avec un accent sur les algorithmes, les structures de données, l'ingénierie logicielle et le développement web. Acquis une expérience pratique à travers divers projets de programmation et camps de formation.",
+                            "tags": ["C/C++", "Java", "VBA","SQL", "Spring", "XML","Systèmes d’exploitation","Systèmes d’information"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/place-2.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "08/11/2021",
+                        "end": "06/07/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Bachelor 2** in Front-end development",
+                            "info": "Ecole Multimedia, PARIS-France",
+                            "text": "Completed an intensive Nanodegree program focused on front-end development, covering essential skills like backend programming, database management, and web application deployment. This course provided a solid foundation in modern JavaScript practices.",
+                            "tags": ["Intégration Web", "HTML5", "CSS/SASS","JavaScript", "React", "Bootstrap","Adobe xd","Figma"]
+                        },
+                        "fr": {
+                            "title":"**Licence 2** en Développement front-end",
+                            "info": "Ecole Multimedia, PARIS-France",
+                            "text": "Terminé un programme intensif de licence 2 sur le développement front-end, couvrant des compétences essentielles telles que la programmation backend, la gestion de bases de données et le déploiement d'applications web. Ce cours a fourni une base solide dans les pratiques modernes de JavaScript.",
+                            "tags": ["Intégration Web", "HTML5", "CSS/SASS","JavaScript", "React", "Bootstrap","Adobe xd","Figma"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/place-4.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "09/01/2023",
+                        "end": "06/01/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Bachelor 3** in Cybersecurity",
+                            "info": "Cyber ​​Management School GEMA",
+                            "text": "<p>I completed a Bachelor's degree program in Cybersecurity focusing on topics including:</p> <ul><li>Operating Systems (Windows and Linux)</li><li>Data Analytics</li><li>Business Development</li></ul> <p class='mt-3'>I applied research and theory to develop practical AI solutions, combining academic excellence with real-world innovation.</p>",
+                            "tags": ["Web Pentest", "Windows Os" ,"Linux Os", "OwaspZap","Nessus", "WordPress", "Computer Programming", "RGPD", "NIST", "JPSSI"]
+                        },
+                        "fr": {
+                            "title": "**Licence 3** en cybersécurité",
+                            "info": "Cyber ​​Management School GEMA",
+                            "text": "<p>J'ai terminé un programme de licence en Cybersecurity axé sur les sujets, y compris:</p> <ul><li>Systèmes d’exploitation (Windows et Linux)</li><li>Analyse des données</li><li>Business Development</li></ul> <p class='mt-3'>J'ai appliqué la recherche et la théorie pour développer des solutions IA pratiques, alliant excellence académique et innovation réelle.</p>",
+                            "tags": ["Pentest Web", "Windows Os" ,"Linux Os", "OwaspZap","Nessus", "WordPress", "Programmation informatique","RGPD", "NIST", "PSSI"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/place-4.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "09/01/2024",
+                        "end": "06/07/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Master 1** in Cybersecurity",
+                            "info": "Cyber ​​Management School GEMA",
+                            "text": "<p>In the process of a Master's degree with a focus on deep learning and its practical applications, particularly in:</p> <ul><li>Software/Application Architecture</li><li>Operating Systems (Windows and advanced Linux)</li><li>Network Analysis and Security</li><li>Incident Management</li><li>Web Pentest</li><li>Computer Programming</li></ul> <p class='mt-3'></p>",
+                            "tags": ["Web Pentest", "Windows Os" ,"Linux Os", "OwaspZap","Nessus", "WordPress", "Computer Programming", "Python", "Bash", "JavaScript"]
+                        },
+                        "fr": {
+                            "title": "**Master 1** en cybersécurité",
+                            "info": "Cyber Management School GEMA",
+                            "text": "<p>En cours de Master avec un accent sur l'apprentissage profond et ses applications pratiques, notamment dans:</p> <ul><li>Architecture logicielle/applicative</li><li>Systèmes d'exploitation (Windows et Linux avancé)</li><li>Analyse et sécurité réseau</li><li>Gestion des incidents</li><li>Pentest Web</li><li>Programmation informatique</li></ul> <p class='mt-3'></p>",
+                            "tags": ["Pentest Web", "Windows Os" ,"Linux Os", "OwaspZap","Nessus", "WordPress", "Programmation informatique", "Python", "Bash", "JavaScript"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
