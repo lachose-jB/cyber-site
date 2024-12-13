@@ -1,0 +1,219 @@
+{
+    "locales": {
+        "en": {
+            "title": "Welcome!",
+            "title_menu": "About me",
+            "title_long_prefix": "Hello...",
+            "title_long": "I'm **Mark Choi!**"
+        },
+
+        "fr": {
+            "title": "Salut !",
+            "title_menu": "À propos",
+            "title_long_prefix": "Salut...",
+            "title_long": "Je suis **Jean-Baptiste**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "ignorePaddingTop": true,
+                "format": "inline"
+            },
+            "locales": {
+                "en": {},
+                "fr": {}
+            },
+
+            "items": [
+                {
+                    "value": "Etudian en Cybersécurité",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-city",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "jean_baptiste@web-sec.fr",
+                    "links": [
+                        {"href": "mailto:jean_baptiste@web-sec.fr"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "@jean-baptiste",
+                    "links": [
+                        {"href": "https://github.com/lachose-jB"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "short_description",
+            "component": "ArticleInfoBlock",
+            "config": {},
+            "locales": {
+                "en": {"title": "**A little bit** about me..."},
+                "fr": {"title": "**Un peu** à propos de moi..."}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/svg/logo.svg",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"text": "<p><b>''Web applications remain a particularly vulnerable part of information systems due to their high level of exposure to attacks and the lack of awareness among development teams.</b>''</br></br>With a Bachelor's degree in software development and website creation, I am currently pursuing a Master's in cybersecurity. I specialize in web security and the protection of personal data, fields in which I plan to develop my career.</br>Passionate about programming and new technologies, I have the skills and professional experience required to thrive in the field of cybersecurity. As an optimistic and motivated team player with excellent communication skills, I envision a promising future in web penetration testing and information systems security.</p>"},
+                        "fr": {"text": "<p><b>''Les applications web représentent toujours un pan particulièrement vulnérable des systèmes d’information, en raison de leurs niveau d’exposition aux attaques et du manque de sensibilisation des équipes de développement.''</br></br></b>Titulaire d'une licence en développement logiciel et création de sites web, je suis actuellement en Master 1 en cybersécurité. Je me spécialise dans la sécurité web et la protection des données personnelles, domaines dans lesquels j'envisage de développer ma carrière.</br>Passionné par la programmation et les nouvelles technologies, je possède les compétences et l'expérience nécessaires pour évoluer dans le domaine de la sécurité informatique. En tant que membre d'équipe optimiste et motivé, doté d'une excellente capacité de communication, je me projette avec enthousiasme vers une carrière en pentest web et en sécurité des systèmes d'information.</p>"}
+                    }
+                }
+            ]
+        },
+        {
+            "id": "interests",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Personal **interests**"},
+                "fr": { "title": "Intérêts **personnels** "}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-gamepad",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Playing videogame",
+                            "info": "Playing video games helps improve reflexes and decision-making speed, strengthen collaboration and communication, while fostering a competitive spirit and a desire for continuous improvement."
+                        },
+                        "fr": {
+                            "title": "Jouer des Jeux video",
+                            "info": "Jouer à des jeux vidéo permet d'améliorer les réflexes et la rapidité de décision, de renforcer la collaboration et la communication, tout en cultivant un esprit de compétition et une volonté d'amélioration continue."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-video",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "AI video editing",
+                            "info": "Learning to use AI tools to enhance my videos."
+                        },
+                        "fr": {
+                            "title": "Montage vidéo avec IA",
+                            "info": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-paint-brush",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Illustration",
+                            "info": "Practicing digital art and exploring new styles."
+                        },
+                        "fr": {
+                            "title": "Illustration",
+                            "info": "Pratiquer l'art numérique et explorer de nouveaux styles."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-music",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Musique",
+                            "info": "Listening to music, particularly slow songs and zouk, helps to relax, stimulate creativity, and improve concentration."
+                        },
+                        "fr": {
+                            "title": "Musique",
+                            "info": "Écouter de la musique, notamment des slows et du zouk, permet de se détendre, de stimuler sa créativité et d'améliorer sa concentration."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-pencil-alt",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "UX design",
+                            "info": "Studying user experience principles."
+                        },
+                        "fr": {
+                            "title": "Conception UX",
+                            "info": "Étudier les principes de l'expérience utilisateur."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-camera-retro",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Photo editing",
+                            "info": "Enhancing photos through creative editing techniques."
+                        },
+                        "fr": {
+                            "title": "Retouche photo",
+                            "info": "Améliorer des photos avec des techniques de montage créatives."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
