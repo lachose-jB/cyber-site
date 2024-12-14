@@ -11,9 +11,9 @@ export default defineConfig({
         'default-src': ["'self'"],
         'script-src': ["'self'", "'unsafe-inline'"],
         'style-src': ["'self'", "'unsafe-inline'", 'https://fonts.googleapis.com'],
-        'font-src': ["'self'", 'https://fonts.gstatic.com'],
+        'font-src': ["'self'", 'https://fonts.gstatic.com', 'data:'],
         'img-src': ["'self'", 'data:'],
-        'connect-src': ["'self'", 'https://api.example.com'],
+        'connect-src': ["'self'", 'https://api.emailjs.com'],
         'frame-src': ["'none'"],
         'object-src': ["'none'"]
       },
