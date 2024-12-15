@@ -15,26 +15,14 @@
 
     "articles": [
         {
-            "id": "contact_form",
-            "component": "ArticleContactForm",
-            "config": {},
-            "locales": {
-                "en": {"title": "Send me a **message**"},
-                "fr": {"title": "Envoyez-moi un **message**"}
-            },
-
-            "items": null
-        },
-
-        {
             "id": "contact_list",
             "component": "ArticleGrid",
             "config": {
                 "format": "grid"
             },
             "locales": {
-                "en": {"title": "Or if you **prefer**..."},
-                "fr": {"title": "Ou si vous **préférez**..."}
+                "en": {"title": "Send me a **message**"},
+                "fr": {"title": "Envoyez-moi un **message**"}
             },
 
             "items": [

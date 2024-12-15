@@ -293,23 +293,6 @@
                             "info": null
                         }
                     }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-git",
-                        "faColors": {"bg": "#F05032", "fill": "#111"}
-                    },
-                    "value": 95,
-                    "dates": {
-                        "start": "01/01/2018"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Git",
-                            "info": null
-                        }
-                    }
                 }
             ]
         },
