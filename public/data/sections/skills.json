@@ -136,7 +136,8 @@
             "component": "ArticleList",
             "config": {},
             "locales": {
-                "en": {"title": "Cybersécurité"}
+                "en": {"title": "Cybersecurity"},
+                "fr": {"title": "Cybersécurité"}
             },
 
             "items": [
@@ -614,7 +615,8 @@
             "component": "ArticleList",
             "config": {},
             "locales": {
-                "en": {"title": "Graphisme"}
+                "en": {"title": "Graphics"},
+                "fr": {"title": "Graphisme"}
             },
 
             "items": [
