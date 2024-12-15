@@ -73,7 +73,7 @@
 
         {
             "id": "more",
-            "faIcon": "fa-solid fa-plus",
+            "faIcon": "fa-solid fa-phone",
             "locales": {
                 "en": {"title": "Contact"},
                 "fr": {"title": "Contact"}
