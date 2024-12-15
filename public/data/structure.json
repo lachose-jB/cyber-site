@@ -66,8 +66,8 @@
             "id": "showcase",
             "faIcon": "fa-solid fa-images",
             "locales": {
-                "en": {"title": "Showcase"},
-                "fr": {"title": "Vitrine"}
+                "en": {"title": "Portfolio"},
+                "fr": {"title": "Portfolio"}
             }
         },
 
@@ -75,8 +75,8 @@
             "id": "more",
             "faIcon": "fa-solid fa-plus",
             "locales": {
-                "en": {"title": "More"},
-                "fr": {"title": "Plus"}
+                "en": {"title": "Contact"},
+                "fr": {"title": "Contact"}
             }
         }
     ]
