@@ -9,12 +9,12 @@ export default defineConfig({
     csp({
       policy: {
         'default-src': ["'self'"],
-        "script-src": ["'self'", "'unsafe-inline'", "https://vercel.live"],
+        "script-src": ["'self'", "https://vercel.live", "'sha256-ValidGeneratedHash...'"],
         'style-src': ["'self'", "'unsafe-inline'", 'https://fonts.googleapis.com'],
         'font-src': ["'self'", 'https://fonts.gstatic.com', 'data:'],
         'img-src': ["'self'", 'data:'],
         'connect-src': ["'self'", 'https://api.emailjs.com'],
-        'frame-src': ["'none'"],
+        'frame-src': ["'self'", "https://vercel.live"],
         'object-src': ["'none'"]
       },
       strict: true,
