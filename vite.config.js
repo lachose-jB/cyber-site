@@ -9,7 +9,7 @@ export default defineConfig({
     csp({
       policy: {
         'default-src': ["'self'"],
-        "script-src": ["'self'", "https://vercel.live", "'sha256-ValidGeneratedHash...'"],
+        "script-src": ["'self'", "https://vercel.live", "'sha256-AbCdEfGhIjKlMnOpQrStUvWxYz1234567890AbCdEfGhIjKlMnOpQrStUvWxYz=='"],
         'style-src': ["'self'", "'unsafe-inline'", 'https://fonts.googleapis.com'],
         'font-src': ["'self'", 'https://fonts.gstatic.com', 'data:'],
         'img-src': ["'self'", 'data:'],
