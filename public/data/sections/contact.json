@@ -27,18 +27,17 @@
 
             "items": [
                 {
-                    "value": "+33 650442768",
+                    "value": "@lachose-jB",
                     "links": [
-                        {"href": "tel:0650442768"}
+                        {"href": "https://github.com/lachose-jB"}
                     ],
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-phone",
+                        "fa": "fa-brands fa-github",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"title": "Phone"},
-                        "fr": {"title": "Téléphone"}
+                        "en": {"title": "github"}
                     }
                 },
 
