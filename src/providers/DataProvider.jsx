@@ -1,6 +1,5 @@
 import React, {createContext, useContext, useEffect, useState} from 'react'
 import {useUtils} from "/src/helpers/utils.js"
-import {useEmails} from "/src/helpers/emails.js"
 
 const DataContext = createContext(null)
 export const useData = () => useContext(DataContext)
@@ -12,7 +11,6 @@ const Status = {
 
 export const DataProvider = ({children}) => {
     const utils = useUtils()
-    const emails = useEmails()
 
     const [status, setStatus] = useState(Status.NOT_LOADED)
     const [jsonData, setJsonData] = useState({
@@ -33,10 +31,6 @@ export const DataProvider = ({children}) => {
 
         if(!dataValidated) {
             _validate()
-        }
-
-        if(jsonData.settings['emailjs']) {
-            emails.init(jsonData.settings['emailjs'])
         }
     }, [jsonData])
 
