@@ -126,6 +126,23 @@
                             "text": "La confiance n'exclus pas le controle !"
                         }
                     }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-cogs",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Automation** of IT Tasks",
+                            "text": "I automate your IT tasks with customized tools."
+                        },
+                        "fr": {
+                            "title": "Automatisation de vos **Tâches Informatiques**",
+                            "text": "J' automatise vos tâches informatiques avec des outils personnalisés."
+                        }
+                    }
                 }
             ]
 

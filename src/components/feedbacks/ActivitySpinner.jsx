@@ -17,7 +17,6 @@ function ActivitySpinner({activities}) {
                         <img src={utils.resolvePath(`/images/svg/spinner.svg`)}
                              className={`spinner`}
                              alt={`loader`}/>
-
                         <h6 className={`text-white opacity-75`}>{message}</h6>
                     </div>
                 </div>
