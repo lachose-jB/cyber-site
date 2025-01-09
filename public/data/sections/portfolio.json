@@ -205,6 +205,87 @@
                             "tags": ["Hash", "Mot de Passe", "Python"]
                         }
                     }
+                },
+
+                {
+                    "categoryId": "utilities",
+                    "icon": {
+                        "img": "images/pictures/project-logo-3.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "#"}
+                    ],
+
+
+                    "locales": {
+                        "en": {
+                            "title": "API_Sec",
+                            "text": "API_Sec is an innovative platform that aims to strengthen API security by leveraging the capabilities of blockchain. The project offers a solution that validates and records each API call in a decentralized, immutable and transparent manner.",
+                            "tags": ["Securing APIs", "Blockchain", "Validating API calls"]
+                        },
+                        "fr": {
+                            "title": "API_Sec",
+                            "text": "API_Sec est une plateforme innovante visant à renforcer la sécurité des APIs en exploitant les capacités de la blockchain. Le projet propose une solution qui valide et enregistre chaque appel d’API de manière décentralisée, immuable et transparente.",
+                            "tags": ["Sécurisation des APIs", "Blockchain", "Validation des appels d'API"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "utilities",
+                    "icon": {
+                        "img": "images/pictures/project-logo-3.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "#"}
+                    ],
+
+
+                    "locales": {
+                        "en": {
+                            "title": "ChifLock",
+                            "text": "ChifLock is an innovative decentralized encryption solution designed to provide maximum security and privacy to users when managing their sensitive data.",
+                            "tags": ["Decentralized encryption", "Data security", "Key management"]
+                        },
+                        "fr": {
+                            "title": "ChifLock",
+                            "text": "ChifLock est une solution innovante de chiffrement décentralisé conçue pour offrir un maximum de sécurité et de confidentialité aux utilisateurs lors de la gestion de leurs données sensibles.",
+                            "tags": ["Chiffrement décentralisé", "Sécurité des données", "Gestion des clés"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "utilities",
+                    "icon": {
+                        "img": "images/pictures/project-logo-3.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "#"}
+                    ],
+
+
+                    "locales": {
+                        "en": {
+                            "title": "FAI Web",
+                            "text": "The FAI Web project aims to develop an intelligent Web Application Firewall (WAF) capable of analyzing user behavior in real time to detect and block malicious requests before they reach the web application.",
+                            "tags": ["Application Firewall (WAF)", "Behavioral Analysis", "Real-Time Security"]
+                        },
+                        "fr": {
+                            "title": "FAI Web",
+                            "text": "Le projet FAI Web a pour objectif de développer un firewall applicatif intelligent (WAF - Web Application Firewall) capable d'analyser les comportements des utilisateurs en temps réel afin de détecter et de bloquer les requêtes malveillantes avant qu'elles n'atteignent l'application web. ",
+                            "tags": ["Firewall Applicatif (WAF)", "Analyse Comportementale", "Sécurité en Temps Réel"]
+                        }
+                    }
                 }
             ]
         }

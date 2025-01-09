@@ -6,7 +6,7 @@
             "jsonPath": "/data/sections/cover.json",
             "faIcon": "fa-solid fa-address-card"
         },
-
+        
         {
             "id": "education",
             "categoryId": "background",
